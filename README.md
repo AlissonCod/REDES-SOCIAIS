@@ -1,7 +1,7 @@
 # REDES-SOCIAIS
 Como entrar em contato comigo!:
 
-LinkeDIn
+LinkeDIn:
 https://www.linkedin.com/in/alisson-matoso-02448221a/
 
 Twitter:
